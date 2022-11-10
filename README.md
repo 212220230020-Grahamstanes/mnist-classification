@@ -177,5 +177,9 @@ x_single_prediction = np.argmax(
 
 ![image](https://user-images.githubusercontent.com/75235488/189907327-69384ddd-16ed-4ba2-95c1-6e99e6dbaf63.png)
 
+###Predicted Output
+
+![Screenshot 2022-11-10 172901](https://user-images.githubusercontent.com/75235150/201085699-62c8b50c-cca8-4116-a079-2018563ba1a0.png)
+
 ## RESULT
 A convolutional deep neural network for digit classification and to verify the response for scanned handwritten images is developed sucessfully.
